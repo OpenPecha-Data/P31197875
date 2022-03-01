@@ -1,0 +1,23 @@
+id: P31197875
+initial_creation_type: input
+source_metadata:
+  title: Seven Branches Series
+  language: en
+  description: Texts on the theme of the seven-branch (yan lag bdun pa; saptāṅga)
+    service, commonly consisting of 1) prostration/homage, 2) making offerings, 3)
+    confession of negative actions, 4) rejoicing in others' virtue, 5) requesting
+    the turning of the dharma wheel, 6) imploring teachers to remain and not pass
+    into parinirvāṇa, and 7) dedicating merit to the enlightenment of all sentient
+    beings.
+  volume:
+    f76bd77e99024f448b0e0d998dae4b26:
+      title: Seven-Branch Offering to Tārā
+      parent: Practices
+    379bfe808d494386a13aa1d8c1fafc98:
+      title: The Seven Branches for Practising the Sacred Dharma
+      parent: Practices
+    d3bccfbd3f7a461bb4efeecf3129b2e8:
+      title: The Eight-Branch Offering from the Gyüluk Phurba
+      parent: Eight Branches
+created_at: '2022-03-01T05:44:10.777640'
+last_modified_at: '2022-03-01T05:44:10.777647'
